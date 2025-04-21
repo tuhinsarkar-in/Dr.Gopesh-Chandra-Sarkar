@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gopeshchandrasarkar.vercel.app/</loc>
+    <lastmod>2025-04-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gopeshchandrasarkar.vercel.app/autobiography.html</loc>
+    <lastmod>2025-04-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gopeshchandrasarkar.vercel.app/gallery.html</loc>
+    <lastmod>2025-04-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+</urlset>
