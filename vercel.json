@@ -1,0 +1,22 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/autobiography", "destination": "/autobiography.html" },
+    { "source": "/gallery", "destination": "/gallery.html" }
+  ],
+  "redirects": [
+    { "source": "/autobiography.html", "destination": "/autobiography", "permanent": true },
+    { "source": "/gallery.html", "destination": "/gallery", "permanent": true }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "index, follow"
+        }
+      ]
+    }
+  ]
+}
