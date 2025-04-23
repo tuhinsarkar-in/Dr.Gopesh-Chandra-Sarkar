@@ -1,18 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:image="https://www.sitemaps.org/schemas/sitemap-image/1.1">
+
   <url>
     <loc>https://gopeshchandrasarkar.vercel.app/</loc>
-    <lastmod>2025-04-21</lastmod>
+    <lastmod>2025-04-23</lastmod>
     <priority>1.0</priority>
   </url>
+
   <url>
     <loc>https://gopeshchandrasarkar.vercel.app/autobiography.html</loc>
-    <lastmod>2025-04-21</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2025-04-23</lastmod>
+    <priority>1.0</priority>
   </url>
+
   <url>
     <loc>https://gopeshchandrasarkar.vercel.app/gallery.html</loc>
-    <lastmod>2025-04-21</lastmod>
-    <priority>0.7</priority>
+    <lastmod>2025-04-23</lastmod>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/headshot0.png</image:loc>
+      <image:caption>Photo of Dr. Gopesh Chandra Sarkar sitting on his chair</image:caption>
+      <image:title>Headshot of Dr. Gopesh Chandra Sarkar</image:title>
+    </image:image>
+
+ <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/gcs2009bjp.png</image:loc>
+      <image:caption>Gopesh Chandra Sarkar 2009 Lok Sabha General Elections</image:caption>
+      <image:title>Gopesh Chandra Sarkar campaigning photo</image:title>
+    </image:image>
+
+ <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/thumb/tuhinsarkar_rounded.webp</image:loc>
+      <image:caption>The creator of this website and the grandson of Dr. Gopesh Chandra Sarkar Tuhin Sarkar</image:caption>
+      <image:title>Tuhin Sarkar</image:title>
+    </image:image>
+
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic01.jpg</image:loc>
+      <image:caption>Dr. Gopesh Chandra Sarkar during 2009 General Elections - Contested from Raiganj constituency (Bharatiya Janata Party)</image:caption>
+      <image:title>2009 Lok Sabha Elections Campaign</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/image44.png</image:loc>
+      <image:caption>Dr. Gopesh Chandra Sarkar receiving Arun Jaitley (2004) at Balurghat helipad</image:caption>
+      <image:title>With Former Finance Minister Arun Jaitley</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic02.jpg</image:loc>
+      <image:caption>Dr. Gopesh Chandra Sarkar receiving Jharkhand CM Arjun Munda (2004) at Balurghat helipad</image:caption>
+      <image:title>With Chief Minister Arjun Munda</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic03.jpg</image:loc>
+      <image:caption>Dr. Gopesh Chandra Sarkar arriving to receive LK Advani during his tenure as BJP State Vice-President</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic04.jpg</image:loc>
+      <image:caption>2009 Lok Sabha campaign - Dr. Gopesh Chandra Sarkar (BJP candidate from Raiganj)</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic12.jpg</image:loc>
+      <image:caption>RSS Sarsanghchalak Rajendra Singh (Rajju Bhaiya) during West Dinajpur visit at Dr. Sarkar's residence</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic13.jpg</image:loc>
+      <image:caption>Dr. Sarkar with RSS leader Rajju Bhaiya (1994-2000 Sarsanghchalak)</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic19.jpg</image:loc>
+      <image:caption>Dr. Gopesh Chandra Sarkar demonstrating his musical talent</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic20.jpg</image:loc>
+      <image:caption>Dr. Sarkar performing magic - West Dinajpur cultural event</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic22.jpg</image:loc>
+      <image:caption>Dr. Gopesh addressing students at Akhil Bharatiya Vidyarthi Parishad (ABVP) event</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic28.jpg</image:loc>
+      <image:caption>With Rashtra Sevika Samiti Pramukh Sanchalika V. Shantha Kumari (Shanthakka)</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic30.jpg</image:loc>
+      <image:caption>Shri Krishna Matlog at Dr. Gopesh's Residence in Raiganj.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://gopeshchandrasarkar.vercel.app/images/pic32.jpg</image:loc>
+      <image:caption>This is an image of Dr. Gopesh giving a speech at a free medical camp hosted at his university.</image:caption>
+    </image:image>
+
   </url>
 </urlset>
